@@ -64,5 +64,174 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agentisend-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agentisend.com/
+AgentiSend provides a transactional email API designed specifically for AI agents, enabling them to send both transactional and marketing emails at scale. The platform offers per-key send budgets, approval queues, and a kill switch for account-wide control. It includes a rich set of features such as webhook event types, detailed deliverability analytics, DNS configuration assistance, and a developer-friendly OpenAPI specification. Pricing tiers range from a free tier with 5,000 emails per month to enterprise plans, and comprehensive documentation, pricing, and support pages are publicly available.
+
+**Areas:** Email · Transactional Email · AI Agents · API · SaaS
+
+## agentisend-com on APIs.io
+
+Everything profiled for agentisend-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agentisend-com/](https://apis.io/providers/agentisend-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (29)
+
+- [agentisend-com Accounts API](https://apis.io/apis/agentisend-com/agentisend-com-accounts-api/) — The accounts API from agentisend-com — 3 operation(s) for accounts.
+- [agentisend-com Agent Actions API](https://apis.io/apis/agentisend-com/agentisend-com-agent-actions-api/) — The agent-actions API from agentisend-com — 3 operation(s) for agent-actions.
+- [agentisend-com Agents API](https://apis.io/apis/agentisend-com/agentisend-com-agents-api/) — The agents API from agentisend-com — 2 operation(s) for agents.
+- [agentisend-com API Keys API](https://apis.io/apis/agentisend-com/agentisend-com-api-keys-api/) — The api-keys API from agentisend-com — 3 operation(s) for api-keys.
+- [agentisend-com Appsumo API](https://apis.io/apis/agentisend-com/agentisend-com-appsumo-api/) — The appsumo API from agentisend-com — 4 operation(s) for appsumo.
+- [agentisend-com Audit API](https://apis.io/apis/agentisend-com/agentisend-com-audit-api/) — The audit API from agentisend-com — 1 operation(s) for audit.
+- [agentisend-com Automations API](https://apis.io/apis/agentisend-com/agentisend-com-automations-api/) — The automations API from agentisend-com — 12 operation(s) for automations.
+- [agentisend-com Billing API](https://apis.io/apis/agentisend-com/agentisend-com-billing-api/) — The billing API from agentisend-com — 10 operation(s) for billing.
+- [agentisend-com Broadcasts API](https://apis.io/apis/agentisend-com/agentisend-com-broadcasts-api/) — The broadcasts API from agentisend-com — 11 operation(s) for broadcasts.
+- [agentisend-com Contacts API](https://apis.io/apis/agentisend-com/agentisend-com-contacts-api/) — The contacts API from agentisend-com — 14 operation(s) for contacts.
+- [agentisend-com Dedicated Ips API](https://apis.io/apis/agentisend-com/agentisend-com-dedicated-ips-api/) — The dedicated-ips API from agentisend-com — 4 operation(s) for dedicated-ips.
+- [agentisend-com Deliverability API](https://apis.io/apis/agentisend-com/agentisend-com-deliverability-api/) — The deliverability API from agentisend-com — 4 operation(s) for deliverability.
+- [agentisend-com Domains API](https://apis.io/apis/agentisend-com/agentisend-com-domains-api/) — The domains API from agentisend-com — 17 operation(s) for domains.
+- [agentisend-com Emails API](https://apis.io/apis/agentisend-com/agentisend-com-emails-api/) — The emails API from agentisend-com — 25 operation(s) for emails.
+- [agentisend-com Limits API](https://apis.io/apis/agentisend-com/agentisend-com-limits-api/) — The limits API from agentisend-com — 6 operation(s) for limits.
+- [agentisend-com Logs API](https://apis.io/apis/agentisend-com/agentisend-com-logs-api/) — The logs API from agentisend-com — 2 operation(s) for logs.
+- [agentisend-com Meta API](https://apis.io/apis/agentisend-com/agentisend-com-meta-api/) — The meta API from agentisend-com — 5 operation(s) for meta.
+- [agentisend-com Metrics API](https://apis.io/apis/agentisend-com/agentisend-com-metrics-api/) — The metrics API from agentisend-com — 2 operation(s) for metrics.
+- [agentisend-com Notifications API](https://apis.io/apis/agentisend-com/agentisend-com-notifications-api/) — The notifications API from agentisend-com — 4 operation(s) for notifications.
+- [agentisend-com OAuth API](https://apis.io/apis/agentisend-com/agentisend-com-oauth-api/) — The oauth API from agentisend-com — 2 operation(s) for oauth.
+- [agentisend-com Segments API](https://apis.io/apis/agentisend-com/agentisend-com-segments-api/) — The segments API from agentisend-com — 5 operation(s) for segments.
+- [agentisend-com Support API](https://apis.io/apis/agentisend-com/agentisend-com-support-api/) — The support API from agentisend-com — 15 operation(s) for support.
+- [agentisend-com Suppressions API](https://apis.io/apis/agentisend-com/agentisend-com-suppressions-api/) — The suppressions API from agentisend-com — 4 operation(s) for suppressions.
+- [agentisend-com Team API](https://apis.io/apis/agentisend-com/agentisend-com-team-api/) — The team API from agentisend-com — 6 operation(s) for team.
+- [agentisend-com Templates API](https://apis.io/apis/agentisend-com/agentisend-com-templates-api/) — The templates API from agentisend-com — 9 operation(s) for templates.
+- [agentisend-com Topics API](https://apis.io/apis/agentisend-com/agentisend-com-topics-api/) — The topics API from agentisend-com — 2 operation(s) for topics.
+- [agentisend-com Trust API](https://apis.io/apis/agentisend-com/agentisend-com-trust-api/) — The trust API from agentisend-com — 4 operation(s) for trust.
+- [agentisend-com Usage API](https://apis.io/apis/agentisend-com/agentisend-com-usage-api/) — The usage API from agentisend-com — 2 operation(s) for usage.
+- [agentisend-com Webhooks API](https://apis.io/apis/agentisend-com/agentisend-com-webhooks-api/) — The webhooks API from agentisend-com — 11 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Agentisend Com Agentic Access](https://apis.io/agentic-access/agentisend-com/agentisend-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetBillingPlanReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-billing-plan-reply/)
+- [GetDeliverabilityDomainsBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-deliverability-domains-by-id-reply/)
+- [GetTrustStandingReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-trust-standing-reply/)
+- [GetUsageReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-usage-reply/)
+- [PostTemplatesBy_idPublishReply](https://apis.io/schemas/agentisend-com/agentisend-com-post-templates-by-id-publish-reply/)
+- [PostTrustAppealReply](https://apis.io/schemas/agentisend-com/agentisend-com-post-trust-appeal-reply/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agentisend Com Context](https://apis.io/jsonld/agentisend-com/agentisend-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [agentisend-com API Rules](https://apis.io/rules/agentisend-com/agentisend-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agentisend Com Authentication](https://apis.io/security/agentisend-com/agentisend-com-authentication/)
+- [Agentisend Com Domain Security](https://apis.io/security/agentisend-com/agentisend-com-domain-security/)
+- [Agentisend Com Vulnerability Disclosure](https://apis.io/security/agentisend-com/agentisend-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Agentisend Com Scopes](https://apis.io/scopes/agentisend-com/agentisend-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Agentisend Com Plans Pricing](https://apis.io/plans/agentisend-com/agentisend-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Agentisend Com Rate Limits](https://apis.io/rate-limits/agentisend-com/agentisend-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agentisend.com/)
+- [Documentation](https://agentisend.com/docs)
+- [Getting started](https://agentisend.com/docs/guides/quickstart)
+- [API reference](https://agentisend.com/openapi.json)
+- [Pricing](https://agentisend.com/pricing)
+- [Support](https://agentisend.com/docs/guides/support)
+- [Changelog](https://agentisend.com/changelog)
+- [Blog](https://agentisend.com/blog)
+- [Security](https://agentisend.com/security)
+- [Terms of service](https://agentisend.com/terms)
+- [Privacy policy](https://agentisend.com/privacy)
+- [GitHub](https://github.com/fortuneflick)
+- [Status](https://agentisend.com/status)
+
+## API Evangelist rating
+
+**Kin Score 61.3** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 63.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 47.4 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 31.6 |
+
+**Agent readiness 67.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agentisend-com/](https://apis.io/providers/agentisend-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for agentisend-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agentisend-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
