@@ -66,7 +66,7 @@
 
 AgentiSend provides a transactional email API designed specifically for AI agents, enabling them to send both transactional and marketing emails at scale. The platform offers per-key send budgets, approval queues, and a kill switch for account-wide control. It includes a rich set of features such as webhook event types, detailed deliverability analytics, DNS configuration assistance, and a developer-friendly OpenAPI specification. Pricing tiers range from a free tier with 5,000 emails per month to enterprise plans, and comprehensive documentation, pricing, and support pages are publicly available.
 
-**Areas:** Email · Transactional Email · AI Agents · API · SaaS
+**Areas:** Email · Transactional Email · AI Agents · Software-as-a-Service
 
 ## agentisend-com on APIs.io
 
@@ -112,18 +112,38 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agentisend Com Agentic Access](https://apis.io/agentic-access/agentisend-com/agentisend-com-agentic-access/)
+- [agentisend-com Agentic Access](https://apis.io/agentic-access/agentisend-com/agentisend-com-agentic-access/)
 
-#### JSON Schema (6)
+#### JSON Schema (66)
 
 The data models the API reads and writes.
 
+- [DeleteAccountReply](https://apis.io/schemas/agentisend-com/agentisend-com-delete-account-reply/)
+- [DeleteDedicated_ipsBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-delete-dedicated-ips-by-id-reply/)
+- [GetAccountReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-account-reply/)
+- [GetAgent_actionsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-agent-actions-reply/)
+- [GetApi_keysReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-api-keys-reply/)
+- [GetAppsumoLicenseReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-appsumo-license-reply/)
+- [GetAudiencesBy_audienceIdContactsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-audiences-by-audience-id-contacts-reply/)
+- [GetAudit_logReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-audit-log-reply/)
+- [GetAutomationsBy_idRunsBy_run_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-automations-by-id-runs-by-run-id-reply/)
+- [GetAutomationsBy_idRunsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-automations-by-id-runs-reply/)
+- [GetAutomationsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-automations-reply/)
 - [GetBillingPlanReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-billing-plan-reply/)
+- [GetBroadcastsBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-broadcasts-by-id-reply/)
+- [GetBroadcastsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-broadcasts-reply/)
+- [GetContactsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-contacts-reply/)
+- [GetDedicated_ipsRampReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-dedicated-ips-ramp-reply/)
+- [GetDedicated_ipsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-dedicated-ips-reply/)
+- [GetDedicated_ipsRoute_decisionBy_messageIdReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-dedicated-ips-route-decision-by-message-id-reply/)
 - [GetDeliverabilityDomainsBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-deliverability-domains-by-id-reply/)
-- [GetTrustStandingReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-trust-standing-reply/)
-- [GetUsageReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-usage-reply/)
-- [PostTemplatesBy_idPublishReply](https://apis.io/schemas/agentisend-com/agentisend-com-post-templates-by-id-publish-reply/)
-- [PostTrustAppealReply](https://apis.io/schemas/agentisend-com/agentisend-com-post-trust-appeal-reply/)
+- [GetDomainsBy_idSetupReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-domains-by-id-setup-reply/)
+- [GetDomainsReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-domains-reply/)
+- [GetDomainsSetupBy_tokenReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-domains-setup-by-token-reply/)
+- [GetEmailsBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-emails-by-id-reply/)
+- [GetEmailsReceivingBy_idReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-emails-receiving-by-id-reply/)
+- [GetEmailsReceivingReply](https://apis.io/schemas/agentisend-com/agentisend-com-get-emails-receiving-reply/)
+- …and 41 more published on APIs.io
 
 #### JSON-LD (1)
 
@@ -141,27 +161,27 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentisend Com Authentication](https://apis.io/security/agentisend-com/agentisend-com-authentication/)
-- [Agentisend Com Domain Security](https://apis.io/security/agentisend-com/agentisend-com-domain-security/)
-- [Agentisend Com Vulnerability Disclosure](https://apis.io/security/agentisend-com/agentisend-com-vulnerability-disclosure/)
+- [agentisend-com Authentication](https://apis.io/security/agentisend-com/agentisend-com-authentication/)
+- [agentisend-com Domain Security](https://apis.io/security/agentisend-com/agentisend-com-domain-security/)
+- [agentisend-com Vulnerability Disclosure](https://apis.io/security/agentisend-com/agentisend-com-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agentisend Com Scopes](https://apis.io/scopes/agentisend-com/agentisend-com-scopes/)
+- [agentisend-com Scopes](https://apis.io/scopes/agentisend-com/agentisend-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agentisend Com Plans Pricing](https://apis.io/plans/agentisend-com/agentisend-com-plans-pricing/)
+- [agentisend-com Plans Pricing](https://apis.io/plans/agentisend-com/agentisend-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agentisend Com Rate Limits](https://apis.io/rate-limits/agentisend-com/agentisend-com-rate-limits/)
+- [agentisend-com Rate Limits](https://apis.io/rate-limits/agentisend-com/agentisend-com-rate-limits/)
 
 ## Where to find this API
 
@@ -183,34 +203,34 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 61.3** — strong · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 61.1** — strong · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 63.2 |
-| Contract governance | 79.1 |
-| Operational transparency | 47.4 |
-| Developer ergonomics | 66.0 |
-| Access clarity | 31.6 |
+| Discoverability | 75.0 |
+| Contract quality | 66.3 |
+| Contract governance | 22.0 |
+| Operational transparency | 47.6 |
+| Developer ergonomics | 61.3 |
+| Access clarity | 34.0 |
 
-**Agent readiness 67.6** — agent-ready (gated down from agent-native)
+**Agent readiness 62.7** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | verified |
-| Error Semantics | derived (partial credit) |
+| Error Semantics | verified |
 | OpenAPI Examples | verified |
 | Rate Limit Signal | verified |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | yes |
 | Delegated Identity | served (partial credit) |
@@ -219,6 +239,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | partial |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 40.2** — Horizontal (data, software, accessibility, platform)
 
